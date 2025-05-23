@@ -1,5 +1,6 @@
 -- This is my source
 -- Not loadstring
+-- Infinite yield activator V1
 
 local ScreenGui = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
